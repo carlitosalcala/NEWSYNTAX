@@ -1,0 +1,2 @@
+# NEWSYNTAX
+ABAP new syntax
