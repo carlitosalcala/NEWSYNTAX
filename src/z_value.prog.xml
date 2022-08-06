@@ -3,17 +3,19 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>Z_CORRESPONDING</NAME>
+    <NAME>Z_VALUE</NAME>
+    <DBAPL>S</DBAPL>
+    <DBNA>D$</DBNA>
     <SUBC>1</SUBC>
-    <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
+    <LDBNAME>D$S</LDBNAME>
     <UCCHECK>X</UCCHECK>
    </PROGDIR>
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>CORRESPONDING demo</ENTRY>
-     <LENGTH>18</LENGTH>
+     <ENTRY>VALUE demo</ENTRY>
+     <LENGTH>10</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
